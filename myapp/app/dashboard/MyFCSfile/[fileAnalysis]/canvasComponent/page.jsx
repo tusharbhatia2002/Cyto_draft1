@@ -32,7 +32,7 @@ const Page = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/MyFCSfile" className="flex items-center text-gray-700 hover:bg-gray-200 px-4 py-2 rounded">
+                <Link href="/dashboard/MyFCSfile" className="flex items-center text-gray-700 hover:bg-gray-200 px-4 py-2 rounded">
                   <FaFileAlt className="mr-2" />
                   My FCS File
                 </Link>
